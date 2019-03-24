@@ -10,7 +10,7 @@
                         Home
                     </a>
                 </li>
-                {{ range .Site.Menus.main }}
+                {{ range sort .Site.Menus.main.ByWeight }}
                     <li><a href="{{ .URL }}" class="uk-link-text">{{ .Name }}</a></li>
                 {{ end }}
             </ul>
@@ -36,7 +36,7 @@
                     Home
                 </a>
             </li>
-            {{ range .Site.Menus.main }}
+            {{ range sort .Site.Menus.main.ByWeight }}
                 <li><a href="{{ .URL }}" class="uk-link-text">{{ .Name }}</a></li>
             {{ end }}
         </ul>
