@@ -1,0 +1,45 @@
+    <nav class="uk-navbar-container" uk-navbar>
+        <div class="uk-navbar-left">
+
+            <a class="uk-navbar-item uk-logo" href="#"><img src="{{ `img/apnns_logo.png` | relURL }}" alt="APNNS Logo"></a>
+
+            <ul class="uk-navbar-nav uk-visible@m">
+                <li>
+                    <a href="{{ .Site.BaseURL }}" class="uk-link-text">
+                        <span class="uk-icon uk-margin-small-right" uk-icon="icon: home"></span>
+                        Home
+                    </a>
+                </li>
+                {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}" class="uk-link-text">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+
+
+        </div>
+        <div class="uk-navbar-right">
+            <a class="uk-navbar-toggle uk-link-text uk-hidden@m" href="#offcanvas" uk-navbar-toggle-icon uk-toggle></a>
+
+        </div>
+    </nav>
+
+
+<div id="offcanvas" uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+        <ul class="uk-nav uk-nav-default">
+            <li>
+                <a href="{{ .Site.BaseURL }}" class="uk-link-text">
+                    <span class="uk-icon uk-margin-small-right" uk-icon="icon: home"></span>
+                    Home
+                </a>
+            </li>
+            {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}" class="uk-link-text">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+
+    </div>
+</div>
