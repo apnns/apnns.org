@@ -14,7 +14,7 @@ type: membership
 
 The annual APNNS membership fee is
 
-**Regular: 15 USD** <br>
+**Regular: 15 USD**
 **Student: 10 USD**
 
 To apply for the APNNS membership, please send an email to [membership@apnns.org](mailto:membership@apnns.org) with the following information.
