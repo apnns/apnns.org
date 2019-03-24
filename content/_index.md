@@ -6,7 +6,7 @@ draft: false
 
 ## Whats' New
 
-* APNNS News (No. 3) has been issued (October 12, 2018)
+* [APNNS News (No. 3)](/pdf/APNNS-Newsletter2018-10-12.pdf) has been issued (October 12, 2018)
 
 ## Welcome
 
@@ -16,18 +16,18 @@ In 2014, APNNA has decided to proceed from an assembly to a member-based society
 
 ## APNNS News
 
-APNNS News (No. 3)
+[APNNS News (No. 3)](/pdf/APNNS-Newsletter2018-10-12.pdf)
 
-APNNS News (No. 2)
+[APNNS News (No. 2)](/pdf/APNNS_NEWS20161230.pdf)
 
-APNNS News (No. 1)
+[APNNS News (No. 1)](/pdf/APNNS_NEWS201605.pdf)
 
 ## Other Useful Links
 
-ICONIP 2018, Dec. 14-16, 2018, Siem Reap, Cambodia
+[ICONIP 2018, Dec. 14-16, 2018, Siem Reap, Cambodia](https://conference.cs.cityu.edu.hk/iconip/)
 
-ICONIP 2017, Nov. 14-18, 2017, Guangzhou, China
+[ICONIP 2017, Nov. 14-18, 2017, Guangzhou, China](/ICONIP2017/)
 
-ICONIP 2016, Oct. 16-21, 2016, Kyoto, Japan
+[ICONIP 2016, Oct. 16-21, 2016, Kyoto, Japan](/ICONIP2016/)
 
-APNNA (Asia Pacific Neural Network Assembly)
+[APNNA (Asia Pacific Neural Network Assembly)](https://link)
