@@ -32,3 +32,12 @@ type: bog
 {{< bog-image src="/img/ahirose.jpg" name="Akira Hirose" title="President (2016)" department="Department of Electronic Engineering" university="The University of Tokyo" email="ahirose@ee.t.u-tokyo.ac.jp" >}}
 
 **We sincerely thank the following past governors for their dedicated services to APNNS.**
+
+## Elected Governors 2019-2020
+
+{{< bog-image src="/img/jonathan.gif" name="Jonathan H. Chan" department="School of Information Technology" university="King Mongkut's University of Technology" email="jonathan@sit.kmutt.ac.th" >}}
+{{< bog-image src="/img/sbcho.jpg" name="Sung-Bae Cho" department="Department of Computer Science" university="Yonsei University" email="sbcho@cs.yonsei.ac.kr" >}}
+{{< bog-image src="/img/kazushi.jpg" name="Kazushi Ikeda" department="Department of Mathematical Informatics" university="Nara Institute of Science and Technology" email="kazushi@is.naist.jp" >}}
+{{< bog-image src="/img/andrew.jpg" name="Andrew Chi-Sing Leung" department="Department of Electronic Engineering" university="City University of Hong Kong" email="eeleungc@cityu.edu.hk" >}}
+{{< bog-image src="/img/blu.jpg" name="Bao-Liang Lu" department="Department of Computer Science" university="Shanghai Jiao Tong University" email="blu@cs.sjtu.edu.cn" >}}
+{{< bog-image src="/img/kevin.jpg" name="Kevin Wong" department="School of Engineering and Information Technology" university="Murdoch University" email="k.wong@murdoch.edu.au" >}}
