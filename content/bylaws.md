@@ -46,10 +46,10 @@ type: bylaws
 
 1. Membership shall be for such terms and shall expire as determined by the Board of Governors. Those members who have paid the required dues and/or fees in accordance with these Bylaws and who are not suspended shall be members in good standing. A membership shall terminate upon any of the following events:
 
-   a. resignation;
-   b. expiration of the period of membership;
-   c. failure of a member to pay dues or fees; and
-   d. expulsion.
+    a. resignation;
+    b. expiration of the period of membership;
+    c. failure of a member to pay dues or fees; and
+    d. expulsion.
 
 2. A member may be expelled from membership or be suspended for willful nonpayment of financial obligations to APNNS, or for failure to observe the rules and regulations of APNNS, or for conduct which is seriously detrimental to the best interests of APNNS or other members of APNNS. The Board of Governors shall establish procedures for the expulsion and suspension of members.
 
@@ -59,27 +59,27 @@ There are four basic grades for regular membership: Honorary, Fellow, Senior Mem
 
 1. Regular Member
 
-   a. The grade of Regular Member is limited to those who have satisfied APNNS-specified educational requirements and/or who have demonstrated professional competence in APNNS-designated fields of interest. For admission or transfer to the grade of Member, a candidate shall be either:
-
-   i. An individual who shall have received a three-to-five year university-level or higher degree
-
-   1. from an accredited institution or program and
-   2. in an APNNS-designated field; or
-
-   ii. An individual who shall have received a three-to-five year university-level or higher degree from an accredited institution or program and who has at least three years of professional work experience engaged in teaching, creating, developing, practicing or managing in APNNS-designated fields;
-
-   or
-
-   iii. An individual who, through at least six years of professional work experience, has demonstrated competence in teaching, creating, developing, practicing or managing within APNNS-designated fields.
+    a. The grade of Regular Member is limited to those who have satisfied APNNS-specified educational requirements and/or who have demonstrated professional competence in APNNS-designated fields of interest. For admission or transfer to the grade of Member, a candidate shall be either:
+    
+    i. An individual who shall have received a three-to-five year university-level or higher degree
+    
+    1. from an accredited institution or program and
+    2. in an APNNS-designated field; or
+    
+    ii. An individual who shall have received a three-to-five year university-level or higher degree from an accredited institution or program and who has at least three years of professional work experience engaged in teaching, creating, developing, practicing or managing in APNNS-designated fields;
+    
+    or
+    
+    iii. An individual who, through at least six years of professional work experience, has demonstrated competence in teaching, creating, developing, practicing or managing within APNNS-designated fields.
 
 2. Student Member
 
-   a. A Student Member must satisfy the following conditions:
-
-   i. Carry at least 50% of a normal full-time academic program as a registered undergraduate or graduate student in a regular course of study in APNNS-designated fields; and not yet qualify for Member grade.
-   ii. The total cumulative period for a member to hold the Student Member grade shall be limited to 8 years.
-
-   b. Student Members, upon graduation or upon reaching the 8-year limit (whichever occurs first), with at least a baccalaureate or higher degree (or its equivalent) from an accredited institution in an APNNS-designated field shall be transferred to Member grade.
+    a. A Student Member must satisfy the following conditions:
+    
+    i. Carry at least 50% of a normal full-time academic program as a registered undergraduate or graduate student in a regular course of study in APNNS-designated fields; and not yet qualify for Member grade.
+    ii. The total cumulative period for a member to hold the Student Member grade shall be limited to 8 years.
+    
+    b. Student Members, upon graduation or upon reaching the 8-year limit (whichever occurs first), with at least a baccalaureate or higher degree (or its equivalent) from an accredited institution in an APNNS-designated field shall be transferred to Member grade.
 
 #### 3.6. APNNS-designated Areas
 
