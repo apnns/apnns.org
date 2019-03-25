@@ -23,3 +23,12 @@ type: bog
 {{< bog-image src="/img/sbcho.jpg" name="Sung-Bae Cho" title="Vice-President for Industry Relationship" department="Department of Computer Science" university="Yonsei University" email="sbcho@cs.yonsei.ac.kr" >}}
 {{< bog-image src="/img/ppang.jpg" name="Paul Pang" title="Vice-President for Competitions" department="Department of Computing" university="Unitec Institute of Technology" email="ppang@unitec.ac.nz" >}}
 {{< bog-image src="/img/jameskwok.jpg" name="James Kwok" title="Vice-President for Publications" department="Department of Computer Science and Engineering" university="Hong Kong University of Science and Technology" email="jamesk@cse.ust.hk" >}}
+
+
+## APNNS Past Presidents
+
+{{< bog-image src="/img/derong1.jpg" name="Derong Liu" title="President (2018)" department="School of Automation" university="Guangdong University of Technology" email="derongliu@foxmail.com" >}}
+{{< bog-image src="/img/soo-young.jpg" name="Soo-Young Lee" title="President (2017)" department="Department of Electrical Engineering" university="Korea Advanced Institute of Science and Technology" email="sylee@kaist.ac.kr" >}}
+{{< bog-image src="/img/ahirose.jpg" name="Akira Hirose" title="President (2016)" department="Department of Electronic Engineering" university="The University of Tokyo" email="ahirose@ee.t.u-tokyo.ac.jp" >}}
+
+**We sincerely thank the following past governors for their dedicated services to APNNS.**
