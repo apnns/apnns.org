@@ -51,3 +51,13 @@ type: bog
 {{< bog-image src="/img/ppang.jpg" name="Paul Pang" department="Department of Computing" university="Unitec Institute of Technology" email="ppang@unitec.ac.nz" >}}
 {{< bog-image src="/img/zzeng.jpg" name="Zhigang Zeng" department="School of Automation" university="Huazhong University of Science and Technology" email="zgzeng@hust.edu.cn" >}}
 
+## Country/Region Governors 2018-2019
+
+{{< bog-image src="/img/tgedeon.jpg" name="Tom Gedeon (Australia)"  department="School of Computer Science" university="Australian National University" email="tom@cs.anu.edu.au" >}}
+{{< bog-image src="/img/kasabov2.jpg" name="Nikola Kasabov (Oceania: New Zealand + Fiji)" department="KEDRI" university="Auckland University of Technology" email="nkasabov@aut.ac.nz" >}}
+{{< bog-image src="/img/irwin.jpg" name="Irwin King (Hong Kong)" department="Department of Computer Science & Engineering" university="Chinese University of Hong Kong" email="king@cse.cuhk.edu.hk" >}}
+{{< bog-image src="/img/wengkin_lai.png" name="Weng Kin Lai (Malaysia)" department="Department of Electrical & Electronic Engineering" university="Tunku Abdul Rahman University College" email="laiwk@acd.tarc.edu.my" >}}
+{{< bog-image src="/img/minho.jpg" name="Minho Lee (Korea)" department="School of Electrical Engineering and Computer Science" university="Kyungpook National University" email="mholee@knu.ac.kr" >}}
+{{< bog-image src="/img/seiichi.jpg" name="Seiichi Ozawa (Japan)" department="Graduate School of Engineering" university="Kobe University " email="ozawasei@kobe-u.ac.jp" >}}
+{{< bog-image src="/img/pasuga.jpg" name="Kitsuchart Pasupa (Thailand)" department="Faculty of Information Technology" university="King Mongkut's Institute of Technology" email="kitsuchart@it.kmitl.ac.th" >}}
+{{< bog-image src="/img/jzhang.jpg" name="Jun Zhang (China)" department="School of Computer Science & Engineering" university="South China University of Technology" email="csjun@scut.edu.cn" >}}
