@@ -79,3 +79,15 @@ type: bog
 {{< bog-image src="/img/HyeYoung.jpg" name="Hye Young Park" department="School of Electrical Engineering and Computer Science" university="Kyungpook National University" email="hypark@knu.ac.kr" >}}
 {{< bog-image src="/img/kctan.jpg" name="Kay Chen Tan" department="Department of Computer Science" university="City University of Hong Kong" email="kaytan@cityu.edu.hk" >}}
 {{< bog-image src="/img/H_Zhang.jpg" name="Huaguang Zhang" department="College of Information Science and Engineering" university="Northeastern University" email="zhanghuaguang@mail.neu.edu.cn" >}}
+
+## Country/Region Governors 2016-2017
+
+{{< bog-image src="/img/arik.jpg" name="Sabri Arik (Middle East)" department="Department of Computer Engineeing" university="Istanbul University" email="ariks@istanbul.edu.tr" >}}
+{{< bog-image src="/img/tgedeon.jpg" name="Tom Gedeon (Australia)"  department="School of Computer Science" university="Australian National University" email="tom@cs.anu.edu.au" >}}
+{{< bog-image src="/img/kasabov2.jpg" name="Nikola Kasabov (Asia Pacific and Greater Regions)" department="KEDRI" university="Auckland University of Technology" email="nkasabov@aut.ac.nz" >}}
+{{< bog-image src="/img/irwin.jpg" name="Irwin King (Hong Kong)" department="Department of Computer Science & Engineering" university="Chinese University of Hong Kong" email="king@cse.cuhk.edu.hk" >}}
+{{< bog-image src="/img/wengkin_lai.png" name="Weng Kin Lai (Malaysia)" department="Department of Electrical & Electronic Engineering" university="Tunku Abdul Rahman University College" email="laiwk@acd.tarc.edu.my" >}}
+{{< bog-image src="/img/kitti.jpg" name="Kittichai Lavangnananda (South East Asia)" department="School of Information Technology" university="King Mongkut's University of Technology" email="kitt@sit.kmutt.ac.th" >}}
+{{< bog-image src="/img/minho.jpg" name="Minho Lee (East Asia)" department="School of Electrical Engineering and Computer Science" university="Kyungpook National University" email="mholee@knu.ac.kr" >}}
+{{< bog-image src="/img/derong.jpg" name="Derong Liu (China)" department="Institute of Automation" university="Chinese Academy of Sciences" email="derong.liu@ia.ac.cn" >}}
+{{< bog-image src="/img/seiichi.jpg" name="Seiichi Ozawa (Japan)" department="Graduate School of Engineering" university="Kobe University " email="ozawasei@kobe-u.ac.jp" >}}
