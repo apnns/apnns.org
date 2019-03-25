@@ -8,3 +8,6 @@ menu:
 type: competition
 ---
 
+# Competition
+
+Content coming soon.

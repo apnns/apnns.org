@@ -8,3 +8,7 @@ menu:
 type: publications
 ---
 
+
+# Publications
+
+Content coming soon.

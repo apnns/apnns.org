@@ -8,3 +8,6 @@ menu:
 type: education
 ---
 
+# Eduction
+
+Content coming soon.

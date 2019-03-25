@@ -8,3 +8,6 @@ menu:
 type: industry-relations
 ---
 
+# Industry Relations
+
+Content coming soon.
