@@ -2,7 +2,7 @@
     <table class="uk-table uk-table-responsive uk-table-middle uk-table-small">
         <tbody>
         <tr>
-            <td class="uk-width-small"><img class="uk-preserve-width" src="{{ index .Params "src" }}" width="100"
+            <td class="uk-width-small"><img class="uk-preserve-width" src="{{ index .Params "src" | relURL }}" width="100"
                                             alt=""></td>
             <td>
                 <h3>{{ index .Params "name" }}</h3>
