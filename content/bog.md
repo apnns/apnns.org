@@ -41,3 +41,13 @@ type: bog
 {{< bog-image src="/img/andrew.jpg" name="Andrew Chi-Sing Leung" department="Department of Electronic Engineering" university="City University of Hong Kong" email="eeleungc@cityu.edu.hk" >}}
 {{< bog-image src="/img/blu.jpg" name="Bao-Liang Lu" department="Department of Computer Science" university="Shanghai Jiao Tong University" email="blu@cs.sjtu.edu.cn" >}}
 {{< bog-image src="/img/kevin.jpg" name="Kevin Wong" department="School of Engineering and Information Technology" university="Murdoch University" email="k.wong@murdoch.edu.au" >}}
+
+## Elected Governors 2018-2019
+
+{{< bog-image src="/img/arik.jpg" name="Sabri Arik" department="Department of Computer Engineeing" university="Istanbul University" email="ariks@istanbul.edu.tr" >}}
+{{< bog-image src="/img/tingwen_huang.jpg" name="Tingwen Huang" department="Faculty of Science" university="Texas A&M University at Qatar " email="tingwen.huang@qatar.tamu.edu" >}}
+{{< bog-image src="/img/jameskwok.jpg" name="James Kwok" department="Department of Computer Science and Engineering" university="Hong Kong University of Science and Technology" email="jamesk@cse.ust.hk" >}}
+{{< bog-image src="/img/omori.jpg" name="Takashi Omori" department="College of Engineering" university="Tamagawa University" email="omori@lab.tamagawa.ac.jp" >}}
+{{< bog-image src="/img/ppang.jpg" name="Paul Pang" department="Department of Computing" university="Unitec Institute of Technology" email="ppang@unitec.ac.nz" >}}
+{{< bog-image src="/img/zzeng.jpg" name="Zhigang Zeng" department="School of Automation" university="Huazhong University of Science and Technology" email="zgzeng@hust.edu.cn" >}}
+
