@@ -61,3 +61,12 @@ type: bog
 {{< bog-image src="/img/seiichi.jpg" name="Seiichi Ozawa (Japan)" department="Graduate School of Engineering" university="Kobe University " email="ozawasei@kobe-u.ac.jp" >}}
 {{< bog-image src="/img/pasuga.jpg" name="Kitsuchart Pasupa (Thailand)" department="Faculty of Information Technology" university="King Mongkut's Institute of Technology" email="kitsuchart@it.kmitl.ac.th" >}}
 {{< bog-image src="/img/jzhang.jpg" name="Jun Zhang (China)" department="School of Computer Science & Engineering" university="South China University of Technology" email="csjun@scut.edu.cn" >}}
+
+## Elected Governors 2017-2018
+
+{{< bog-image src="/img/jonathan.gif" name="Jonathan H. Chan" department="School of Information Technology" university="King Mongkut's University of Technology" email="jonathan@sit.kmutt.ac.th" >}}
+{{< bog-image src="/img/sbcho.jpg" name="Sung-Bae Cho" department="Department of Computer Science" university="Yonsei University" email="sbcho@cs.yonsei.ac.kr" >}}
+{{< bog-image src="/img/kazushi.jpg" name="Kazushi Ikeda" department="Department of Mathematical Informatics" university="Nara Institute of Science and Technology" email="kazushi@is.naist.jp" >}}
+{{< bog-image src="/img/andrew.jpg" name="Andrew Chi-Sing Leung" department="Department of Electronic Engineering" university="City University of Hong Kong" email="eeleungc@cityu.edu.hk" >}}
+{{< bog-image src="/img/blu.jpg" name="Bao-Liang Lu" department="Department of Computer Science" university="Shanghai Jiao Tong University" email="blu@cs.sjtu.edu.cn" >}}
+{{< bog-image src="/img/kevin.jpg" name="Kevin Wong" title="Vice-President for Membership" department="School of Engineering and Information Technology" university="Murdoch University" email="k.wong@murdoch.edu.au" >}}
