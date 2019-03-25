@@ -150,7 +150,7 @@ root
 
 Open your Terminal/CMD and type in `hugo new education.md`, this will generate a new file under `contents/education.md` with the following contents:
 
-```toml
+```yaml
 ---
 title: "Education" # Title of the page
 date: 2019-03-24T13:32:44+13:00 # Date and time when it was created
