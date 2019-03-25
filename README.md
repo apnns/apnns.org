@@ -164,6 +164,16 @@ type: education # Type of page is education, an independent page
 
 you can use GitHub type markdown format after the `---`.
 
+Once this is done, you need to create a page under `themes/education/single.html` and Add
+
+```go
+{{ define "main" }}
+
+    {{ .Content }}
+
+{{ end }}
+```
+
 ### 1.4. Checks Before Building the Pages
 
 1. Make sure the `baseURL` pointing to the correct URL in `config.toml`.
