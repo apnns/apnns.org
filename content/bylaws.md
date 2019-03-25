@@ -32,8 +32,8 @@ type: bylaws
 
 1. All regular members in good standing shall have the right to vote on the election of Governors at Large and on the election of
 
-   a. the President and President-Elect in 2015 and
-   b. after 2015, the President-Elect of APNNS.
+    a. the President and President-Elect in 2015 and
+    b. after 2015, the President-Elect of APNNS.
 
 2. Voting will be conducted on all open positions and other questions, annually and at all other times selected by the Board of Governors.
 
@@ -85,14 +85,14 @@ There are four basic grades for regular membership: Honorary, Fellow, Senior Mem
 
 1. The APNNS-designated fields are:
 
-   a. Neural networks, neurosciences, cognitive science, psychology, and related fields;
-   b. Engineering;
-   c. Computer sciences and information technology;
-   d. Biological and medical sciences;
-   e. Mathematics;
-   f. Physical sciences;
-   g. Technical communications, education;
-   h. Management, law and policy.
+    a. Neural networks, neurosciences, cognitive science, psychology, and related fields;
+    b. Engineering;
+    c. Computer sciences and information technology;
+    d. Biological and medical sciences;
+    e. Mathematics;
+    f. Physical sciences;
+    g. Technical communications, education;
+    h. Management, law and policy.
 
 2. Revisions to APNNS-designated fields shall be by action of the APNNS Board of Governors.
 
