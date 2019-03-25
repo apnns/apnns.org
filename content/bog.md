@@ -70,3 +70,12 @@ type: bog
 {{< bog-image src="/img/andrew.jpg" name="Andrew Chi-Sing Leung" department="Department of Electronic Engineering" university="City University of Hong Kong" email="eeleungc@cityu.edu.hk" >}}
 {{< bog-image src="/img/blu.jpg" name="Bao-Liang Lu" department="Department of Computer Science" university="Shanghai Jiao Tong University" email="blu@cs.sjtu.edu.cn" >}}
 {{< bog-image src="/img/kevin.jpg" name="Kevin Wong" title="Vice-President for Membership" department="School of Engineering and Information Technology" university="Murdoch University" email="k.wong@murdoch.edu.au" >}}
+
+## Elected Governors 2016-2017
+
+{{< bog-image src="/img/tingwen_huang.jpg" name="Tingwen Huang" department="Faculty of Science" university="Texas A&M University at Qatar " email="tingwen.huang@qatar.tamu.edu" >}}
+{{< bog-image src="/img/jameskwok.jpg" name="James Kwok" department="Department of Computer Science and Engineering" university="Hong Kong University of Science and Technology" email="jamesk@cse.ust.hk" >}}
+{{< bog-image src="/img/omori.jpg" name="Takashi Omori" department="College of Engineering" university="Tamagawa University" email="omori@lab.tamagawa.ac.jp" >}}
+{{< bog-image src="/img/HyeYoung.jpg" name="Hye Young Park" department="School of Electrical Engineering and Computer Science" university="Kyungpook National University" email="hypark@knu.ac.kr" >}}
+{{< bog-image src="/img/kctan.jpg" name="Kay Chen Tan" department="Department of Computer Science" university="City University of Hong Kong" email="kaytan@cityu.edu.hk" >}}
+{{< bog-image src="/img/H_Zhang.jpg" name="Huaguang Zhang" department="College of Information Science and Engineering" university="Northeastern University" email="zhanghuaguang@mail.neu.edu.cn" >}}
