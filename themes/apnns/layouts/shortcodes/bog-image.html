@@ -6,6 +6,7 @@
             <td>
                 <h3>{{ index .Params "name" }}</h3>
                 <p>
+                    <span class="uk-text-bold">{{ index .Params "title" }}</span> <br>
                     {{ index .Params "department" }} <br>
                     {{ index .Params "university" }} <br>
                     <a href="mailto:{{ index .Params "email" }}">{{ index .Params "email" }}</a>
