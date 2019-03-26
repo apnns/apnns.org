@@ -32,21 +32,10 @@ Membership Class: Regular or Student.
 
 Then, we will send you an invoice that is payable through PayPal. Your membership will be activated upon the receipt of payment. **A student must send the copy of student ID card or a student certificate with the signature of a school dean.**
 
-## Participants of ICONIP 2017 (Guangzhou, China)
+## Participants of ICONIP 2018 (Siem Reap, Cambodia)
 
-The 2018 APNNS annual membership fee is FREE for ICONIP 2017 participants. Simply send an email to [membership@apnns.org](mailto:membership@apnns.org) with the following information.
+The 2019 APNNS annual membership fee is FREE for ICONIP 2018 participants. You should receive your membership information by 15 April 2019. If you have not receive information about your membership by 15 April 2019. Please email to membership@apnns.org for enquiry.
 
-```
-To: membership@apnns.org
-Subject: ICONIP 2018 - Membership Application
-
-Paper/Registration ID:
-Name (LAST/First):
-Affiliation:
-Email Address:
-Country or Region of your Institute:
-Membership Class: Regular or Student.
-```
 
 ## JNNS Members
 
