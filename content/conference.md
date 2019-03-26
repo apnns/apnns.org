@@ -13,7 +13,7 @@ type: conference
 ## Future Conferences
 
 <!-- [ICONIP 2020, TBD](https://www.australia.com/) -->
-[ICONIP 2019, will be in Australia](http://ajiips.com.au/iconip2019/)
+[ICONIP 2019, Dec. 12-15, 2019, Sydney, Australia](http://ajiips.com.au/iconip2019/)
 [ICONIP 2018, Dec. 13-16, 2018, Siem Reap, Cambodia](https://conference.cs.cityu.edu.hk/iconip/)
 
 ## Past Conferences
