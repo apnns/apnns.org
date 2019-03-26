@@ -6,6 +6,7 @@ draft: false
 
 ## Whats' New
 
+* [ICONIP 2019, Dec. 12-15, 2019, Sydney, Australia](http://ajiips.com.au/iconip2019/)
 * [APNNS News (No. 3)](/pdf/APNNS-Newsletter2018-10-12.pdf) has been issued (October 12, 2018)
 
 ## Welcome
@@ -23,6 +24,8 @@ In 2014, APNNA has decided to proceed from an assembly to a member-based society
 [APNNS News (No. 1)](/pdf/APNNS_NEWS201605.pdf)
 
 ## Other Useful Links
+
+[ICONIP 2019, Dec. 12-15, 2019, Sydney, Australia](http://ajiips.com.au/iconip2019/)
 
 [ICONIP 2018, Dec. 14-16, 2018, Siem Reap, Cambodia](https://conference.cs.cityu.edu.hk/iconip/)
 
