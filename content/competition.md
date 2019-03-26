@@ -10,4 +10,4 @@ type: competition
 
 # Competition
 
-Content coming soon.
+APNNS organises computational competition activities in different areas of AI and NN. A traditional competition at ICONIP conferences is in the area of Cybersecurity predictive data analysis. More information can be obtained from the VP Competition.

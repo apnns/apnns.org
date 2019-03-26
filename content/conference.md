@@ -8,7 +8,7 @@ menu:
 type: conference
 ---
 
-# Conference
+# Conferences
 
 ## Future Conferences
 

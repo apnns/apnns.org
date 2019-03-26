@@ -10,4 +10,4 @@ type: industry-relations
 
 # Industry Relations
 
-Content coming soon.
+APNNS is looking for both small and large industry partners to join the society for a mutual benefit of the APNNS members and the companies. For more information contact the VP Industry Relations.

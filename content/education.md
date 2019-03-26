@@ -10,4 +10,4 @@ type: education
 
 # Eduction
 
-Content coming soon.
+APNNS organises educational seminars and workshops. More information can be obtained from the VP Education.
