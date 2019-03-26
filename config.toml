@@ -1,4 +1,4 @@
-baseURL = "http://www.apnns.org/"
+baseURL = "http://www.apnns.org/test2/"
 languageCode = "en-us"
 title = "APNNS"
 theme="apnns"
@@ -8,3 +8,4 @@ theme="apnns"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
+    fractions = false
