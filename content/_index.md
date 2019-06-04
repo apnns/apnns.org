@@ -7,7 +7,7 @@ draft: false
 ## Whats' New
 
 * [ICONIP 2019, Dec. 12-15, 2019, Sydney, Australia](http://ajiips.com.au/iconip2019/)
-* [APNNS News (No. 3)](/pdf/APNNS-Newsletter2018-10-12.pdf) has been issued (October 12, 2018)
+* [APNNS News (No. 4)](/pdf/APNNS-Newsletter_2019.pdf) has been issued (June 04, 2019)
 
 ## Welcome
 
@@ -16,6 +16,8 @@ Our predecessor, Asia Pacific Neural Network Assembly (APNNA) was founded in 199
 In 2014, APNNA has decided to proceed from an assembly to a member-based society, APNNS, in order to further promote the field in the Asia-Pacific region including the further advancement of ICONIP, with operations most suitable for the vibrant Asia-Pacific region. APNNS also seeks more active participation from researchers and professionals in the region. APNNS was formally established in November 2015.
 
 ## APNNS News
+
+[APNNS News (No. 4)](/pdf/APNNS-Newsletter_2019.pdf)
 
 [APNNS News (No. 3)](/pdf/APNNS-Newsletter2018-10-12.pdf)
 
